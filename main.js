@@ -3,14 +3,13 @@ function delimit(){
 }
 
 let expresion = String(prompt){
-    console.log ("ingrese la expresion que requiera")
+    "ingrese la expresion que requiera"
 };
-{
+
 function delimit(expresion){
-    if (delimit == "{","}","[","]")
+    if (delimit == ("{","}","[","]","(",")"))
         console.log ("True")
     else
         console.log ("False")
-}
-}
+};
 
